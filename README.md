@@ -43,3 +43,5 @@ mysql -u 'root' -p'4linux'
 |---------|-----------|--------------|
 | debian  | Debian 10 | 172.27.11.10 |
 | centos  | CentOS  8 | 172.27.11.20 |
+
+teste de nova linha
