@@ -1,4 +1,4 @@
-# MySQL
+## MySQL
 
 Este Vagrantfile provisiona duas máquinas virtuais, uma com Debian 10 e outra com CentOS 8, instalando a versão 8.0 do MySQL em ambas.
 
