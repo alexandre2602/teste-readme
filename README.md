@@ -54,3 +54,11 @@ novo tempo hoje
 novo tempo hoje - parte2
 ````
 
+
+```bash
+vagrant ssh master
+```
+
+```
+vagrant ssh default
+```
